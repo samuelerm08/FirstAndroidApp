@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="phEmail">Enter your Email</string>
+    <string name="phPassword">Enter your Password</string>
+    <string name="title">Welcome</string>
+    <string name="lblEmail">Email</string>
+    <string name="lblPassword">Password</string>
+    <string name="btnName">Login</string>
+</resources>

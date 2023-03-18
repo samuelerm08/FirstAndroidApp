@@ -1,3 +1,3 @@
 # FirstAndroidApp
 
-Mis primeros pasos en desarrollo para Android, usando Android Studio. 
+Mis primeros pasos en desarrollo para Android, usando Android Studio :)
